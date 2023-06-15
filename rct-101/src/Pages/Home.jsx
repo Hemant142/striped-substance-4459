@@ -3,6 +3,16 @@ import { Box, Button, ButtonGroup, Card, CardBody, CardFooter, Divider, Heading,
 export default function Home(){
     return(<Box>
         <div>Home Page</div>
+        <Box w="full" >
+                <Box borderRadius="10px" h="500px" backgroundImage="url('https://dy6g3i6a1660s.cloudfront.net/wMsXNGunCnVl6ICOTkCsgAeoBLA/orig.jpg')" backgroundPosition="center">
+                    <Heading pr="40px" pt="30px" color="#FAFAFA" fontFamily="revert">Design meets Sustainability</Heading>
+                    <Button mr="40px" mt="300px" colorScheme='white' color="white" variant='outline' >
+                        Shop Now
+                    </Button>
+                </Box>
+
+            </Box>
+
 
 
      
