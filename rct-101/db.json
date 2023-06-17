@@ -1,0 +1,405 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ear phone",
+      "price":2099,
+      "about": "Sony Premium MDR-XB55AP in-Ear Extra Bass Wired Headphones with Mic (Blue)",
+      "category": "Wired",
+      "brand":"Sonic",
+      "rating":4.3,
+      "avatar": ["https://m.media-amazon.com/images/I/51x1sdb9K6L._SY879_.jpg",
+      "https://m.media-amazon.com/images/I/71S3FMp1NQL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/51HkOyiu-qL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/51Vwd+d1soL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/617VxS7JLoL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61o-QioLhRL._SX679_.jpg"]
+    },
+    {
+      "id": 2,
+      "name": "Ear phone",
+      "price":1433,
+      "about": "Sony MDR-EX155AP In-Ear Earphone With Mic (Black)",
+      "category": "Wired",
+      "brand":"Sonic",
+      "rating":4.5,
+      "avatar": ["https://img3.gadgetsnow.com/gd/images/products/additional/small/G98275_View_1/accessories/headphones-headsets/sony-mdr-ex155ap-in-ear-earphone-with-mic-black-.jpg",
+      "https://img6.gadgetsnow.com/gd/images/products/additional/large/G98275_View_2/accessories/headphones-headsets/sony-mdr-ex155ap-in-ear-earphone-with-mic-black-.jpg",
+      "https://img3.gadgetsnow.com/gd/images/products/additional/large/G98275_View_3/accessories/headphones-headsets/sony-mdr-ex155ap-in-ear-earphone-with-mic-black-.jpg",
+      "https://img1.gadgetsnow.com/gd/images/products/additional/large/G98275_View_4/accessories/headphones-headsets/sony-mdr-ex155ap-in-ear-earphone-with-mic-black-.jpg",
+      "https://img5.gadgetsnow.com/gd/images/products/additional/large/G98275_View_5/accessories/headphones-headsets/sony-mdr-ex155ap-in-ear-earphone-with-mic-black-.jpg"]
+    },
+    {
+      "id": 3,
+      "name": "Ear phone",
+      "price":2016,
+      "about": "Sony Extra Bass MDR-XB450AP On-Ear Wired Headphones with Mic (Black)",
+      "category": "Wired",
+      "brand":"Sonic",
+      "rating":4.5,
+      "avatar": ["https://m.media-amazon.com/images/I/61t0HecIZbL._SX466_.jpg",
+      "https://m.media-amazon.com/images/I/614Ti9J7NbL._SX466_.jpg",
+      "https://m.media-amazon.com/images/I/61Rh9G8VRDL._SX466_.jpg",
+      "https://m.media-amazon.com/images/I/61ygNLxDGXL._SX466_.jpg",
+      "https://m.media-amazon.com/images/I/61uzV0EuDfL._SX466_.jpg",
+      "https://m.media-amazon.com/images/I/61gX104hsJL._SX466_.jpg"]
+    },
+    {
+      "id": 4,
+      "name": "Ear phone",
+      "price":1699,
+      "about": "Ekko Skull Alter EGO H02 - Wireless Headphones with ENC Call Noise Cancellation Upto 15H Playback, On Ear Headphones with Mic, Max Bass, Twin Connect, Siri & Google Assistant Activate (Black)",
+      "category": "Wire less",
+      "brand":"Ekko Skull",
+      "rating":3.6,
+      "avatar": ["https://m.media-amazon.com/images/I/71NhoCi2eHL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81-UR5SO6FL._SX679_.jpg",
+"https://m.media-amazon.com/images/I/81zM4H-pq5L._SX679_.jpg",
+"https://m.media-amazon.com/images/I/71TQG0MISDL._SX679_.jpg",
+"https://m.media-amazon.com/images/I/81KDGQuOZbL._SX679_.jpg",
+"https://m.media-amazon.com/images/I/71mANE-YW1L._SX679_.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Ear phone",
+      "price":499,
+      "about": "boAt Bassheads 225 Wired in Ear Earphone with Mic(Molten Orange)",
+      "category": "Wire less",
+      "brand":"boAt",
+      "rating":4.6,
+      "avatar": ["https://m.media-amazon.com/images/I/519UzRIcdGS._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81-UR5SO6FL._SX679_.jpg",
+"https://m.media-amazon.com/images/I/81zM4H-pq5L._SX679_.jpg",
+"https://m.media-amazon.com/images/I/71TQG0MISDL._SX679_.jpg",
+"https://m.media-amazon.com/images/I/81KDGQuOZbL._SX679_.jpg",
+"https://m.media-amazon.com/images/I/71mANE-YW1L._SX679_.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Ear phone",
+      "price":399,
+      "about": "boAt Bassheads 102 in Ear Wired Earphones with Mic(Fiery Red)",
+      "category": "Wired",
+      "brand":"boAt",
+      "rating":4.2,
+      "avatar": ["https://m.media-amazon.com/images/I/61tdW6bS2zL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81-UR5SO6FL._SX679_.jpg",
+"https://m.media-amazon.com/images/I/81zM4H-pq5L._SX679_.jpg",
+"https://m.media-amazon.com/images/I/71TQG0MISDL._SX679_.jpg",
+"https://m.media-amazon.com/images/I/81KDGQuOZbL._SX679_.jpg",
+"https://m.media-amazon.com/images/I/71mANE-YW1L._SX679_.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Ear phone",
+      "price":999,
+      "about": "Noise Buds VS201 V3 in-Ear Truly Wireless Earbuds with 60H of Playtime, Dual Equalizer, Full Touch Control, Mic, BTv5.1 (Forest Green)",
+      "category": "Wired",
+      "brand":"Noise",
+      "rating":3.7,
+      "avatar": ["https://m.media-amazon.com/images/I/51B5yCfcRHL._AC_UL600_FMwebp_QL65_.jpg",
+      "https://m.media-amazon.com/images/I/81-UR5SO6FL._SX679_.jpg",
+"https://m.media-amazon.com/images/I/81zM4H-pq5L._SX679_.jpg",
+"https://m.media-amazon.com/images/I/71TQG0MISDL._SX679_.jpg",
+"https://m.media-amazon.com/images/I/81KDGQuOZbL._SX679_.jpg",
+"https://m.media-amazon.com/images/I/71mANE-YW1L._SX679_.jpg"
+      ]
+    },
+    
+    {
+      "id": 9,
+      "name": "Ear phone",
+      "price":999,
+      "about": "PTron Bassbuds Rush Bluetooth True Wireless in Ear Earbuds with Mic, Gaming 40ms Low Latency, 35Hrs Playtime, Deep Bass, ENC Stereo Call, BT5.3 Headphones, 1-Step Pairing, Voice Assist & IPX4 (Black)",
+      "category": "Wired",
+      "brand":"pTron",
+      "rating":3.5,
+      "avatar": ["https://m.media-amazon.com/images/I/51u6kOItA2L._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71oSq-vUUJL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71ydodw0m7L._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61WaP5B3s0L._SX679_.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Ear phone",
+      "price":1999,
+      "about": "boAt Rockerz 550 Bluetooth Wireless Over Ear Headphones with Upto 20 Hours Playback, 50MM Drivers, Soft Padded Ear Cushions and Physical Noise Isolation with Mic (Black Symphony)",
+      "category": "Wired",
+      "brand":"boAt",
+      "rating":3.5,
+      "avatar": ["https://m.media-amazon.com/images/I/61F5SXdi9jL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71sDJ+XZmgL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/717CUtSkbEL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71KEQql5BTL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61QfHxh2PcL._SX679_.jpg"
+      
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Watch",
+      "price":3499,
+      "about": "Fire-Boltt Quantum Luxury Stainless Steel Design 1.28 Bluetooth Calling Smartwatch with High Resolution of 240 * 240 Px & TWS Connection, SpO2 Tracking with 100 Sports Modes (Green)",
+      "category": "Analog",
+      "brand":"Fire-Bott",
+      "rating":4.3,
+      "avatar": "https://m.media-amazon.com/images/I/71NpfTAn0fL._SX679_.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Watch",
+      "price":3499,
+      "about": "boAt Flash Edition Smart Watch with Activity Tracker, Multiple Sports Modes, 1.3 Screen, 170+ Watch Faces, Sleep Monitor, Gesture, Camera & Music Control, IP68 & 7 Days Battery Life(Lightning Black)",
+      "category": "Digital",
+      "brand":"boAt",
+      "rating":3.9,
+      "avatar": "https://m.media-amazon.com/images/I/416+IXsM9lL._SY300_SX300_.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Watch",
+      "price":2499,
+      "about": "Fire-Boltt Gladiator 1.96 Biggest Display Smart Watch with Bluetooth Calling, Voice Assistant &123 Sports Modes, 8 Unique UI Interactions, SpO2, 24/7 Heart Rate Tracking (Black)",
+      "category": "Digital",
+      "brand":"Fire-Boltt",
+      "rating":3.9,
+      "avatar": "https://m.media-amazon.com/images/I/71IqWwSIxwL._SX466_.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Watch",
+      "price":1099,
+      "about": "Fire-Boltt Ninja 3 1.83 Display Smartwatch Full Touch with 100+ Sports Modes with IP68, Sp02 Tracking, Over 100 Cloud Based Watch Faces (Blue)",
+      "category": "Digital",
+      "brand":"Fire-Boltt",
+      "rating":4.2,
+      "avatar": "https://m.media-amazon.com/images/I/61YAHGm184L._SX466_.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Watch",
+      "price":1798,
+      "about": "Noise Pulse 2 Max 1.85 Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness, Smart DND, 100 Sports Modes, Smartwatch for Men and Women (Jet Black)",
+      "category": "Digital",
+      "brand":"Noise",
+      "rating":4.1,
+      "avatar": "https://m.media-amazon.com/images/I/61SSVxTSs3L._SX466_.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Watch",
+      "price":4499,
+      "about": "Noise ColorFit Ultra 3 Bluetooth Calling Smart Watch with Biggest 1.96 AMOLED Display, Premium Metallic Build, Functional Crown, Gesture Control with Silicon Strap (Jet Black)",
+      "category": "Digital",
+      "brand":"Noise",
+      "rating":4.0,
+      "avatar": "https://m.media-amazon.com/images/I/71nzWfUAt+L._SX466_.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Watch",
+      "price":81999,
+      "about": "Apple Watch Ultra [GPS + Cellular 49 mm] smart watch w/Rugged Titanium Case & Orange Alpine Loop - Large. Fitness Tracker, Precision GPS, Action Button, Extra-Long BatteryLife, Brighter Retina Display",
+      "category": "Digital",
+      "brand":"Apple",
+      "rating":4.1,
+      "avatar": "https://m.media-amazon.com/images/I/91z5KuonXrL._SX679_.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Watch",
+      "price":1999,
+      "about": "boAt Wave Armour with 1.83” HD Display, Bluetooth Calling, Rugged Design, HR, SpO2 & Sleep Monitoring, Multiple Sports Modes, Multiple Watch Faces(Olive Green with Silver Dial)",
+      "category": "Analog",
+      "brand":"boAt",
+      "rating":4.0,
+      "avatar": "https://m.media-amazon.com/images/I/71bIGA38-kL._SX679_.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Laptop",
+      "price":37600,
+      "about": "Lenovo IdeaPad Slim 3 Intel Core i3-1115G4 11th Gen 15.6(39.62cm) FHD Laptop (8GB/256GB SSD/Win 11/Office 2021/2 Year Warranty/3 Month Game Pass/Arctic Grey/1.65Kg), 82H803GTIN",
+      "category": "Laptop",
+      "brand":"Lenovo",
+      "rating":4.0,
+      "avatar": "https://m.media-amazon.com/images/I/41B0RudTQYL._SY300_SX300_QL70_FMwebp_.jpg"
+    },
+
+ {
+      "id": 20,
+      "name": "Laptop",
+      "price":137600,
+      "about": "Apple 2023 MacBook Air (15-inch, M2 chip with 8‑core CPU and 10‑core GPU, 8GB RAM, 256GB) - Space Gray",
+      "category": "Laptop",
+      "brand":"Apple",
+      "rating":4.0,
+      "avatar": "https://m.media-amazon.com/images/I/810m1Z1xOEL._SX679_.jpg"
+    },
+ {
+      "id": 21,
+      "name": "Laptop",
+      "price":37490,
+      "about": "Lenovo V15 Intel Celeron N4500 15.6 (39.62 cm) FHD (1920x1080) Antiglare 250 Nits Thin and Light Laptop (8GB RAM/256GB SSD/Windows 11 Home/Black/1Y Onsite/1.7 kg), 82QYA00MIN",
+      "category": "Laptop",
+      "brand":"Lenovo",
+      "rating":4.0,
+      "avatar": "https://m.media-amazon.com/images/I/31uLEZHhMDL.jpg"
+    },
+
+ {
+      "id": 22,
+      "name": "Laptop",
+      "price":23390,
+      "about": "HP 247 G8 Laptop (AMD Athlon P-3045B HD/ 14 inches(35.5cm) HD /8GB RAM DDR4 /1TB HDD/Windows 11 Home/ W11 SL) One Year Warranty, Black, 67U77PA",
+      "category": "Laptop",
+      "brand":"HP",
+      "rating":3.9,
+      "avatar": "https://m.media-amazon.com/images/I/41lNWrEJvvS._SY300_SX300_QL70_FMwebp_.jpg"
+    },
+ {
+      "id": 23,
+      "name": "Laptop",
+      "price":23390,
+      "about": "(Renewed) HP Chromebook 13 G1 6th Gen Intel Core m5 FHD Thin & Light Laptop (8 GB RAM/32 GB eMMC Storage/13.3(33.8 cm) FHD/Chrome OS/WiFi/Bluetooth/Webcam/Intel Graphics)",
+      "category": "Laptop",
+      "brand":"HP",
+      "rating":2.0,
+      "avatar": "https://m.media-amazon.com/images/I/61gtoFugR8L._SX679_.jpg"
+    },
+
+{
+      "id": 24,
+      "name": "Laptop",
+      "price":23390,
+      "about": "Apple 2020 MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Gold",
+      "category": "Laptop",
+      "brand":"Apple",
+      "rating":4.7,
+      "avatar": "https://m.media-amazon.com/images/I/31+G-o8iK-L._SX342_SY445_.jpg"
+    },
+
+{
+      "id": 25,
+      "name": "Laptop",
+      "price":23390,
+      "about": "HP Victus Gaming Laptop 11th Gen Intel Core i5-11400H 16.1 inch(40.9 cm) FHD IPS Gaming Laptop(16GB RAM/512GB SSD/NVIDIA GeForce GTX 1650 Graphics/Backlit KB/Win 11/B&O/Alexa/Xbox Pass),16-d0333TX",
+      "category": "Laptop",
+      "brand":"HP",
+      "rating":4.7,
+      "avatar": "https://m.media-amazon.com/images/I/81wJJj6jLfL._SX679_.jpg"
+    },
+
+{
+      "id": 26,
+      "name": "Gaming Console",
+      "price":9499,
+      "about": "EvoFox Game Box TV Gaming Console With Smart Remote and Game Controller | 4 GB RAM, 32 GB Storage | 3D GPU, 4-Core Processor | Bluetooth 5.0 | Fox OS v1.5 | 4K Output | Preloaded Games | (Coal Black)",
+      "category": "Laptop",
+      "brand":"HP",
+      "rating":3.4,
+      "avatar": "https://m.media-amazon.com/images/I/51n+n+8AXZL._SX466_.jpg"
+    },
+{
+      "id": 27,
+      "name": "Gaming Console",
+      "price":1999,
+      "about": "Ambrane Wireless Gaming Controller with Transparent Design, 2.4GHz Wireless Technology, Integrated Dual Intensity Motor, Illuminated Pad for PC - Windows, PS3 Console & Android TV(OP-WLGC01, Black)",
+      "category": "Laptop",
+      "brand":"HP",
+      "rating":3.4,
+      "avatar": "https://m.media-amazon.com/images/I/711EqR0PGGL._SX679_.jpg"
+    },
+{
+      "id": 28,
+      "name": "Gaming Console",
+      "price":1999,
+      "about": "Ambrane Wireless Gaming Controller with Transparent Design, 2.4GHz Wireless Technology, Integrated Dual Intensity Motor, Illuminated Pad for PC - Windows, PS3 Console & Android TV(OP-WLGC01, Black)",
+      "category": "Laptop",
+      "brand":"HP",
+      "rating":3.4,
+      "avatar": "https://m.media-amazon.com/images/I/711EqR0PGGL._SX679_.jpg"
+    },
+{
+      "id": 29,
+      "name": "Gaming Console",
+      "price":6630,
+      "about": "GoWarranty 2-Years Extended Warranty for Playstation Gaming Console (Range INR 1 - INR 40000) Email Delivery",
+      "category": "Laptop",
+      "brand":"HP",
+      "rating":4.2,
+      "avatar": "https://m.media-amazon.com/images/I/61UKoNVnoxL._SX466_.jpg"
+    },
+{
+      "id": 30,
+      "name": "Gaming Console",
+      "price":2849,
+      "about": "Amkette EvoFox One Universal Bluetooth Gamepad for iOS, iPadOS, Android, PS4 and PC (X-Input) with The Dojo App, Detachable Mobile Clamp, Low Latency Bluetooth 5.1 and More (Transparent)",
+      "category": "Laptop",
+      "brand":"HP",
+      "rating":4.4,
+      "avatar": "https://m.media-amazon.com/images/I/41PA57qVqLL._SX300_SY300_QL70_FMwebp_.jpg"
+    }
+
+  ],
+  "users": [
+    {
+      "name": "Krishna",
+      "email": "krishna@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "ABC",
+      "email": "email@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "Krishna",
+      "email": "email@gmail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "ABC",
+      "email": "123@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "name": "Hemant",
+      "email": "yhemant203@gmail.com",
+      "password": "123",
+      "id": 5
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "name": "3 Hand Sanitizers Mystic Foliage",
+      "price": 12.7,
+      "about": "Cleanse and moisturize your hands with this formula with Aloe Vera that eliminates 99.99% of bacteria. This Mystic Foliage collection will leave your hands delicately scented and remind you of the warmness of the tropics and the exotic flora.",
+      "category": "HandSanitizer",
+      "howToUse": "1.Spray until your hands are sufficiently covered \n 2.Shuffle fingertips in palm.\n 3.Rub your hands inside and out.\n 4.Rub between your fingers.\n 5.Enjoy clean and soft hands.",
+      "ingredients": "Hand Sanitizer Forest Grace: Green energy and the effervescence of fruit.\n  Hand Sanitizer Wild Orchid: Wild orchids around the warmth of vanilla flower and Indian Sandalwood.\n  Hand Sanitizer Tales of Lotus:Delicate water petals are covered with white figs and dry fruit notes.",
+      "avatar": "https://cdn.shopify.com/s/files/1/0511/9066/1293/products/Hand_Sanitizer_BE_pocket_Soothing_Lavender.jpg?v=1681718048",
+      "quantity": 1
+    },
+    {
+      "id": 37,
+      "name": "Full Skin Care Routine - for Dry Skin",
+      "price": 43.9,
+      "about": "Make up your full daily skincare routine ",
+      "category": "Combo",
+      "howToUse": "1.Face Cleanser: Apply morning and evening, massaging onto wet skin in a gentle, circular motion. Rinse thoroughly with water.\n  2.Face Cream: Apply and massage morning and/or night on cleansed skin.\n 3.Face Serum :Apply morning and evening after cleansing and drying the skin, massaging gently until completely absorbed.",
+      "ingredients": "Aqua, Glycerin, Sodium Lauroyl Sarcosinate, Cocamidopropyl Betaine, Guar Hydroxypropyltrimonium Chloride, Citric Acid, Sodium Benzoate, Potassium Sorbate, Disodium EDTA, Parfum(Fragrance), Inulin, Tetrasodium EDTA, Fructose, Caprylyl Glycol, Acetyl Tetrapeptide-2.",
+      "avatar": "https://cdn.shopify.com/s/files/1/0511/9066/1293/products/03_11.jpg?v=1675873024",
+      "quantity": 1
+    }
+  ]
+}
