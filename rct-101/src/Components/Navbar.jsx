@@ -5,9 +5,9 @@ import { Link as RouterLink } from "react-router-dom"
 import {CgSearch} from 'react-icons/cg'
 import {BsHandbag} from 'react-icons/bs'
 import myImage from '../images/myImage.png';
-
+import { color } from "framer-motion";
 export default function Navbar(){
-// console.log(myImage)
+console.log(myImage)
     const links=[ 
         {
             title:"Home",
@@ -15,7 +15,7 @@ export default function Navbar(){
     },
     ,{
         title:"Shop",
-        path:"/products"
+        path:"/shop"
     },{
         title:"About Us",
         path:"/about"
@@ -58,25 +58,27 @@ export default function Navbar(){
  
     </Flex>
   </Box>
-</Flex> */}
- 
+</Flex>
+  */}
   <Flex>
+    
+
   <Box>
-  <Tabs size='md' variant='enclosed' width="158.5%" >
+ <Tabs size='md' variant='enclosed' width="158.5%" >
   <TabList  justifyContent="space-between"  >
     <Box display="flex" >
     <Box><img src={myImage} alt="" width="100%" height="100%"/></Box>
-    <RouterLink to="/"><Tab>Home</Tab></RouterLink>
-   <RouterLink to="/products"> <Tab>Shop</Tab></RouterLink>
-    <RouterLink to="/about"><Tab>About Us</Tab></RouterLink>
-   <RouterLink to="/blog"><Tab>Blog</Tab></RouterLink>
-    <RouterLink to="/contactus"><Tab>Contact Us</Tab></RouterLink>
+    <Tab><RouterLink to="/">Home</RouterLink></Tab>
+    <Tab><RouterLink to="/products">Shop</RouterLink></Tab>
+    <Tab><RouterLink to="/about">About Us</RouterLink></Tab>
+    <Tab><RouterLink to="/blog">Blog</RouterLink></Tab>
+    <Tab><RouterLink to="/contactus">Contact Us</RouterLink></Tab>
     {/* <Spacer /> */}
     </Box>
     <Box display="flex">
-    {/* <RouterLink to="/"><Tab><CgSearch /></Tab></RouterLink> */}
-    <RouterLink to="/login"><Tab>LogIn</Tab></RouterLink>
-    <RouterLink to="/addtocard"><Tab><Box mt="1"><BsHandbag /></Box></Tab></RouterLink>
+    <Tab><RouterLink to="/"><CgSearch /></RouterLink></Tab>
+    <Tab><RouterLink to="/login">LogIn</RouterLink></Tab>
+    <Tab> <RouterLink to="/addtocard"><BsHandbag/></RouterLink></Tab>
     </Box>
   </TabList>
 </Tabs>

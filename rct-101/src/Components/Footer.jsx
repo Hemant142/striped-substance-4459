@@ -1,40 +1,20 @@
-import { Box, Text, Stack, Link, IconButton, Icon, Input, Button, Center,Image, Heading } from "@chakra-ui/react";
+import { Box, Text, Stack, Link, IconButton, Icon, Input, Button, Center } from "@chakra-ui/react";
 import { FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa";
-import myImage from '../images/myImage.png';
+
 function Footer() {
     return (
-        <Box as="footer" backgroundColor="gray" py="12" mt="80px">
+        <Box as="footer" backgroundColor="gray" py="12" mt="80px" width="550">
             <Stack direction={{ base: "column", md: "row" }} spacing="4" align={{ base: "flex-start", md: "center" }}>
 
-                <Box flex="1">
-                <Box>
-  <Image src={myImage} alt='logo' paddingLeft="30px" />
-  <Box marginTop="5">
-  <Text fontSize='xs'>There are many variations
-passages of Lorem Ipsum availabele,
-but the majority have</Text></Box>
-<Box marginTop="5">
-<Heading as='h5' size='sm'>
-    Contact US
-  </Heading>
-  </Box>
-  <Box>
-    <Text fontSize='xs'>+99(0)101 0000 888 Patricia C.
-Amedee 4401 Waldeck Street
-Grapevine Nashcille, Tx 76051</Text>
-  </Box>
-  </Box>
-
-                </Box>
 
                 <Box flex="1">
 
                     <Stack direction={{ base: "row", md: "column" }} spacing="4">
                         <Text fontWeight="bold" fontSize="lg" mb="4">Quick Links</Text>
-                        <Link href="#">Home</Link>
-                        <Link href="#">Shop</Link>
-                        <Link href="#">About Us</Link>
-                        <Link href="#">Contact Us</Link>
+                        <Link href="/">Home</Link>
+                        <Link href="/products">Shop</Link>
+                        <Link href="/about">About Us</Link>
+                        <Link href="contactus">Contact Us</Link>
                     </Stack>
                 </Box>
 
@@ -42,9 +22,9 @@ Grapevine Nashcille, Tx 76051</Text>
 
                     <Stack direction="column" spacing="4">
                         <Text fontWeight="bold" fontSize="lg" mb="4">Follow Us</Text>
-                        <IconButton bg="white" aria-label="Facebook" icon={<Icon as={FaFacebook} />} />
-                        <IconButton bg="white" aria-label="Twitter" icon={<Icon as={FaTwitter} />} />
-                        <IconButton bg="white" aria-label="Instagram" icon={<Icon as={FaInstagram} />} />
+                        <IconButton bg="#F1F8E9" aria-label="Facebook" icon={<Icon as={FaFacebook} />} />
+                        <IconButton bg="#F1F8E9" aria-label="Twitter" icon={<Icon as={FaTwitter} />} />
+                        <IconButton bg="#F1F8E9" aria-label="Instagram" icon={<Icon as={FaInstagram} />} />
                     </Stack>
                 </Box>
 

@@ -17,7 +17,7 @@ export default function LogIn(){
     const navigate = useNavigate()
 
     function UserData() {
-        axios.get(`http://localhost:8080/users`)
+        axios.get(`https://reactmonkeyapi.onrender.com/users`)
             .then((res) => {
                 setUserData(res.data)
             })
